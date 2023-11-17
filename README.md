@@ -1,2 +1,2 @@
 # APEAPCET-College-PREDICTOR
-college.infinityfreeapp.com
+http://college.infinityfreeapp.com/
